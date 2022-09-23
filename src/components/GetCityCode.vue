@@ -68,6 +68,12 @@ export default {
           this.city = this.city + '市'
         }
         let resultCode = this.nameToCodeMap.get(this.city)
+
+        if (resultCode == null || resultCode == undefined) {
+          this.getMsg = `城市没找到...`
+          return
+        }
+
         this.getMsg = `城市码为${resultCode}`
         if (navigator.clipboard) {
           navigator.clipboard.writeText(resultCode);
@@ -77,6 +83,12 @@ export default {
       }
       if (this.cityCode != '') {
         let resultCity = this.codeToNameMap.get(this.cityCode)
+
+        if (resultCity == null || resultCity == undefined) {
+          this.getMsg = `城市码没找到...`
+          return
+        }
+
         this.getMsg = `城市为${resultCity}`
         if (navigator.clipboard) {
           navigator.clipboard.writeText(resultCity);
@@ -110,6 +122,12 @@ export default {
           }
           result = this.nameToCodeMap.get(word)
           this.city = word
+
+          if (result == null || result == undefined) {
+            this.getMsg = `城市码没找到...`
+            return
+          }
+
           this.cityCode = result
           if (navigator.clipboard) {
             navigator.clipboard.writeText(result);
@@ -117,8 +135,13 @@ export default {
           }
         } else {
           result = this.codeToNameMap.get(word)
-          this.city = result
           this.cityCode = word
+          
+          if (result == null || result == undefined) {
+            this.getMsg = `城市码没找到...`
+            return
+          }
+          this.city = result
           if (navigator.clipboard) {
             navigator.clipboard.writeText(result);
             this.getMsg = `城市 ${result} 已经复制到剪切板，直接去粘贴吧！`
@@ -276,6 +299,7 @@ input:focus ~ .highlight {
 
 .getMsg {
   margin-top: 50px;
+  font-size: 25px;
 }
 
 .msg {
