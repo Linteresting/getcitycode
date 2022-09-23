@@ -1,5 +1,5 @@
 <template>
-  <GetCityCode msg="time to get CITYCODE!"/>
+  <GetCityCode msg="TIME TO GET CITYCODE!"/>
 </template>
 
 <script>
