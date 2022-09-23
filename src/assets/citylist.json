@@ -1,0 +1,2229 @@
+[
+  {
+    "adCode": "310100",
+    "cityCode": "021",
+    "name": "上海市",
+    "pinYin": "shanghai"
+  },
+  {
+    "adCode": "500000",
+    "cityCode": "023",
+    "name": "重庆市",
+    "pinYin": "chongqing"
+  },
+  {
+    "adCode": "120000",
+    "cityCode": "022",
+    "name": "天津市",
+    "pinYin": "tianjin"
+  },
+  {
+    "adCode": "110000",
+    "cityCode": "010",
+    "name": "北京市",
+    "pinYin": "beijing"
+  },
+  {
+    "adCode": "211400",
+    "cityCode": "0429",
+    "name": "葫芦岛市",
+    "pinYin": "huludao"
+  },
+  {
+    "adCode": "210200",
+    "cityCode": "0411",
+    "name": "大连市",
+    "pinYin": "dalian"
+  },
+  {
+    "adCode": "210600",
+    "cityCode": "0415",
+    "name": "丹东市",
+    "pinYin": "dandong"
+  },
+  {
+    "adCode": "211300",
+    "cityCode": "0421",
+    "name": "朝阳市",
+    "pinYin": "chaoyang"
+  },
+  {
+    "adCode": "210700",
+    "cityCode": "0416",
+    "name": "锦州市",
+    "pinYin": "jinzhou"
+  },
+  {
+    "adCode": "210400",
+    "cityCode": "0413",
+    "name": "抚顺市",
+    "pinYin": "fushun"
+  },
+  {
+    "adCode": "211200",
+    "cityCode": "0410",
+    "name": "铁岭市",
+    "pinYin": "tieling"
+  },
+  {
+    "adCode": "210100",
+    "cityCode": "024",
+    "name": "沈阳市",
+    "pinYin": "shenyang"
+  },
+  {
+    "adCode": "211000",
+    "cityCode": "0419",
+    "name": "辽阳市",
+    "pinYin": "liaoyang"
+  },
+  {
+    "adCode": "210300",
+    "cityCode": "0412",
+    "name": "鞍山市",
+    "pinYin": "anshan"
+  },
+  {
+    "adCode": "210800",
+    "cityCode": "0417",
+    "name": "营口市",
+    "pinYin": "yingkou"
+  },
+  {
+    "adCode": "211100",
+    "cityCode": "0427",
+    "name": "盘锦市",
+    "pinYin": "panjin"
+  },
+  {
+    "adCode": "210900",
+    "cityCode": "0418",
+    "name": "阜新市",
+    "pinYin": "fuxin"
+  },
+  {
+    "adCode": "210500",
+    "cityCode": "0414",
+    "name": "本溪市",
+    "pinYin": "benxi"
+  },
+  {
+    "adCode": "420800",
+    "cityCode": "0724",
+    "name": "荆门市",
+    "pinYin": "jingmen"
+  },
+  {
+    "adCode": "420300",
+    "cityCode": "0719",
+    "name": "十堰市",
+    "pinYin": "shiyan"
+  },
+  {
+    "adCode": "421100",
+    "cityCode": "0713",
+    "name": "黄冈市",
+    "pinYin": "huanggang"
+  },
+  {
+    "adCode": "420500",
+    "cityCode": "0717",
+    "name": "宜昌市",
+    "pinYin": "yichang"
+  },
+  {
+    "adCode": "420600",
+    "cityCode": "0710",
+    "name": "襄阳市",
+    "pinYin": "xiangyang"
+  },
+  {
+    "adCode": "420100",
+    "cityCode": "027",
+    "name": "武汉市",
+    "pinYin": "wuhan"
+  },
+  {
+    "adCode": "422800",
+    "cityCode": "0718",
+    "name": "恩施土家族苗族自治州",
+    "pinYin": "enshitujiazumiaozuzizhizhou"
+  },
+  {
+    "adCode": "421200",
+    "cityCode": "0715",
+    "name": "咸宁市",
+    "pinYin": "xianning"
+  },
+  {
+    "adCode": "429021",
+    "cityCode": "1719",
+    "name": "神农架林区",
+    "pinYin": "shennongjialinqu"
+  },
+  {
+    "adCode": "420900",
+    "cityCode": "0712",
+    "name": "孝感市",
+    "pinYin": "xiaogan"
+  },
+  {
+    "adCode": "429005",
+    "cityCode": "2728",
+    "name": "潜江市",
+    "pinYin": "qianjiang"
+  },
+  {
+    "adCode": "421300",
+    "cityCode": "0722",
+    "name": "随州市",
+    "pinYin": "suizhou"
+  },
+  {
+    "adCode": "421000",
+    "cityCode": "0716",
+    "name": "荆州市",
+    "pinYin": "jingzhou"
+  },
+  {
+    "adCode": "429006",
+    "cityCode": "1728",
+    "name": "天门市",
+    "pinYin": "tianmen"
+  },
+  {
+    "adCode": "429004",
+    "cityCode": "0728",
+    "name": "仙桃市",
+    "pinYin": "xiantao"
+  },
+  {
+    "adCode": "420200",
+    "cityCode": "0714",
+    "name": "黄石市",
+    "pinYin": "huangshi"
+  },
+  {
+    "adCode": "420700",
+    "cityCode": "0711",
+    "name": "鄂州市",
+    "pinYin": "ezhou"
+  },
+  {
+    "adCode": "410900",
+    "cityCode": "0393",
+    "name": "濮阳市",
+    "pinYin": "puyang"
+  },
+  {
+    "adCode": "411200",
+    "cityCode": "0398",
+    "name": "三门峡市",
+    "pinYin": "sanmenxia"
+  },
+  {
+    "adCode": "410300",
+    "cityCode": "0379",
+    "name": "洛阳市",
+    "pinYin": "luoyang"
+  },
+  {
+    "adCode": "411100",
+    "cityCode": "0395",
+    "name": "漯河市",
+    "pinYin": "luohe"
+  },
+  {
+    "adCode": "411000",
+    "cityCode": "0374",
+    "name": "许昌市",
+    "pinYin": "xuchang"
+  },
+  {
+    "adCode": "411300",
+    "cityCode": "0377",
+    "name": "南阳市",
+    "pinYin": "nanyang"
+  },
+  {
+    "adCode": "411500",
+    "cityCode": "0376",
+    "name": "信阳市",
+    "pinYin": "xinyang"
+  },
+  {
+    "adCode": "419001",
+    "cityCode": "1391",
+    "name": "济源市",
+    "pinYin": "jiyuan"
+  },
+  {
+    "adCode": "410500",
+    "cityCode": "0372",
+    "name": "安阳市",
+    "pinYin": "anyang"
+  },
+  {
+    "adCode": "411700",
+    "cityCode": "0396",
+    "name": "驻马店市",
+    "pinYin": "zhumadian"
+  },
+  {
+    "adCode": "410800",
+    "cityCode": "0391",
+    "name": "焦作市",
+    "pinYin": "jiaozuo"
+  },
+  {
+    "adCode": "410600",
+    "cityCode": "0392",
+    "name": "鹤壁市",
+    "pinYin": "hebi"
+  },
+  {
+    "adCode": "410700",
+    "cityCode": "0373",
+    "name": "新乡市",
+    "pinYin": "xinxiang"
+  },
+  {
+    "adCode": "410200",
+    "cityCode": "0378",
+    "name": "开封市",
+    "pinYin": "kaifeng"
+  },
+  {
+    "adCode": "410400",
+    "cityCode": "0375",
+    "name": "平顶山市",
+    "pinYin": "pingdingshan"
+  },
+  {
+    "adCode": "410100",
+    "cityCode": "0371",
+    "name": "郑州市",
+    "pinYin": "zhengzhou"
+  },
+  {
+    "adCode": "411600",
+    "cityCode": "0394",
+    "name": "周口市",
+    "pinYin": "zhoukou"
+  },
+  {
+    "adCode": "411400",
+    "cityCode": "0370",
+    "name": "商丘市",
+    "pinYin": "shangqiu"
+  },
+  {
+    "adCode": "230900",
+    "cityCode": "0464",
+    "name": "七台河市",
+    "pinYin": "qitaihe"
+  },
+  {
+    "adCode": "232700",
+    "cityCode": "0457",
+    "name": "大兴安岭地区",
+    "pinYin": "daxinganlingdiqu"
+  },
+  {
+    "adCode": "230400",
+    "cityCode": "0468",
+    "name": "鹤岗市",
+    "pinYin": "hegang"
+  },
+  {
+    "adCode": "230700",
+    "cityCode": "0458",
+    "name": "伊春市",
+    "pinYin": "yichun"
+  },
+  {
+    "adCode": "231200",
+    "cityCode": "0455",
+    "name": "绥化市",
+    "pinYin": "suihua"
+  },
+  {
+    "adCode": "231100",
+    "cityCode": "0456",
+    "name": "黑河市",
+    "pinYin": "heihe"
+  },
+  {
+    "adCode": "230100",
+    "cityCode": "0451",
+    "name": "哈尔滨市",
+    "pinYin": "haerbin"
+  },
+  {
+    "adCode": "230200",
+    "cityCode": "0452",
+    "name": "齐齐哈尔市",
+    "pinYin": "qiqihaer"
+  },
+  {
+    "adCode": "231000",
+    "cityCode": "0453",
+    "name": "牡丹江市",
+    "pinYin": "mudanjiang"
+  },
+  {
+    "adCode": "230300",
+    "cityCode": "0467",
+    "name": "鸡西市",
+    "pinYin": "jixi"
+  },
+  {
+    "adCode": "230600",
+    "cityCode": "0459",
+    "name": "大庆市",
+    "pinYin": "daqing"
+  },
+  {
+    "adCode": "230500",
+    "cityCode": "0469",
+    "name": "双鸭山市",
+    "pinYin": "shuangyashan"
+  },
+  {
+    "adCode": "230800",
+    "cityCode": "0454",
+    "name": "佳木斯市",
+    "pinYin": "jiamusi"
+  },
+  {
+    "adCode": "440500",
+    "cityCode": "0754",
+    "name": "汕头市",
+    "pinYin": "shantou"
+  },
+  {
+    "adCode": "440600",
+    "cityCode": "0757",
+    "name": "佛山市",
+    "pinYin": "foshan"
+  },
+  {
+    "adCode": "441200",
+    "cityCode": "0758",
+    "name": "肇庆市",
+    "pinYin": "zhaoqing"
+  },
+  {
+    "adCode": "441300",
+    "cityCode": "0752",
+    "name": "惠州市",
+    "pinYin": "huizhou"
+  },
+  {
+    "adCode": "442100",
+    "cityCode": "0767",
+    "name": "东沙群岛",
+    "pinYin": "dongshaqundao"
+  },
+  {
+    "adCode": "440300",
+    "cityCode": "0755",
+    "name": "深圳市",
+    "pinYin": "shenzhen"
+  },
+  {
+    "adCode": "445100",
+    "cityCode": "0768",
+    "name": "潮州市",
+    "pinYin": "chaozhou"
+  },
+  {
+    "adCode": "441700",
+    "cityCode": "0662",
+    "name": "阳江市",
+    "pinYin": "yangjiang"
+  },
+  {
+    "adCode": "440800",
+    "cityCode": "0759",
+    "name": "湛江市",
+    "pinYin": "zhanjiang"
+  },
+  {
+    "adCode": "440700",
+    "cityCode": "0750",
+    "name": "江门市",
+    "pinYin": "jiangmen"
+  },
+  {
+    "adCode": "440400",
+    "cityCode": "0756",
+    "name": "珠海市",
+    "pinYin": "zhuhai"
+  },
+  {
+    "adCode": "441500",
+    "cityCode": "0660",
+    "name": "汕尾市",
+    "pinYin": "shanwei"
+  },
+  {
+    "adCode": "440900",
+    "cityCode": "0668",
+    "name": "茂名市",
+    "pinYin": "maoming"
+  },
+  {
+    "adCode": "441400",
+    "cityCode": "0753",
+    "name": "梅州市",
+    "pinYin": "meizhou"
+  },
+  {
+    "adCode": "440200",
+    "cityCode": "0751",
+    "name": "韶关市",
+    "pinYin": "shaoguan"
+  },
+  {
+    "adCode": "445200",
+    "cityCode": "0663",
+    "name": "揭阳市",
+    "pinYin": "jieyang"
+  },
+  {
+    "adCode": "441900",
+    "cityCode": "0769",
+    "name": "东莞市",
+    "pinYin": "dongguan"
+  },
+  {
+    "adCode": "441600",
+    "cityCode": "0762",
+    "name": "河源市",
+    "pinYin": "heyuan"
+  },
+  {
+    "adCode": "441800",
+    "cityCode": "0763",
+    "name": "清远市",
+    "pinYin": "qingyuan"
+  },
+  {
+    "adCode": "445300",
+    "cityCode": "0766",
+    "name": "云浮市",
+    "pinYin": "yunfu"
+  },
+  {
+    "adCode": "440100",
+    "cityCode": "020",
+    "name": "广州市",
+    "pinYin": "guangzhou"
+  },
+  {
+    "adCode": "442000",
+    "cityCode": "0760",
+    "name": "中山市",
+    "pinYin": "zhongshan"
+  },
+  {
+    "adCode": "370200",
+    "cityCode": "0532",
+    "name": "青岛市",
+    "pinYin": "qingdao"
+  },
+  {
+    "adCode": "370600",
+    "cityCode": "0535",
+    "name": "烟台市",
+    "pinYin": "yantai"
+  },
+  {
+    "adCode": "370300",
+    "cityCode": "0533",
+    "name": "淄博市",
+    "pinYin": "zibo"
+  },
+  {
+    "adCode": "371500",
+    "cityCode": "0635",
+    "name": "聊城市",
+    "pinYin": "liaocheng"
+  },
+  {
+    "adCode": "371000",
+    "cityCode": "0631",
+    "name": "威海市",
+    "pinYin": "weihai"
+  },
+  {
+    "adCode": "371300",
+    "cityCode": "0539",
+    "name": "临沂市",
+    "pinYin": "linyi"
+  },
+  {
+    "adCode": "370700",
+    "cityCode": "0536",
+    "name": "潍坊市",
+    "pinYin": "weifang"
+  },
+  {
+    "adCode": "370400",
+    "cityCode": "0632",
+    "name": "枣庄市",
+    "pinYin": "zaozhuang"
+  },
+  {
+    "adCode": "370500",
+    "cityCode": "0546",
+    "name": "东营市",
+    "pinYin": "dongying"
+  },
+  {
+    "adCode": "371100",
+    "cityCode": "0633",
+    "name": "日照市",
+    "pinYin": "rizhao"
+  },
+  {
+    "adCode": "371600",
+    "cityCode": "0543",
+    "name": "滨州市",
+    "pinYin": "binzhou"
+  },
+  {
+    "adCode": "370800",
+    "cityCode": "0537",
+    "name": "济宁市",
+    "pinYin": "jining"
+  },
+  {
+    "adCode": "370900",
+    "cityCode": "0538",
+    "name": "泰安市",
+    "pinYin": "taian"
+  },
+  {
+    "adCode": "371400",
+    "cityCode": "0534",
+    "name": "德州市",
+    "pinYin": "dezhou"
+  },
+  {
+    "adCode": "370100",
+    "cityCode": "0531",
+    "name": "济南市",
+    "pinYin": "jinan"
+  },
+  {
+    "adCode": "371700",
+    "cityCode": "0530",
+    "name": "菏泽市",
+    "pinYin": "heze"
+  },
+  {
+    "adCode": "150800",
+    "cityCode": "0478",
+    "name": "巴彦淖尔市",
+    "pinYin": "bayannaoer"
+  },
+  {
+    "adCode": "150300",
+    "cityCode": "0473",
+    "name": "乌海市",
+    "pinYin": "wuhai"
+  },
+  {
+    "adCode": "150600",
+    "cityCode": "0477",
+    "name": "鄂尔多斯市",
+    "pinYin": "eerduosi"
+  },
+  {
+    "adCode": "150200",
+    "cityCode": "0472",
+    "name": "包头市",
+    "pinYin": "baotou"
+  },
+  {
+    "adCode": "150700",
+    "cityCode": "0470",
+    "name": "呼伦贝尔市",
+    "pinYin": "hulunbeier"
+  },
+  {
+    "adCode": "150500",
+    "cityCode": "0475",
+    "name": "通辽市",
+    "pinYin": "tongliao"
+  },
+  {
+    "adCode": "152900",
+    "cityCode": "0483",
+    "name": "阿拉善盟",
+    "pinYin": "alashanmeng"
+  },
+  {
+    "adCode": "150400",
+    "cityCode": "0476",
+    "name": "赤峰市",
+    "pinYin": "chifeng"
+  },
+  {
+    "adCode": "152200",
+    "cityCode": "0482",
+    "name": "兴安盟",
+    "pinYin": "xinganmeng"
+  },
+  {
+    "adCode": "152500",
+    "cityCode": "0479",
+    "name": "锡林郭勒盟",
+    "pinYin": "xilinguolemeng"
+  },
+  {
+    "adCode": "150900",
+    "cityCode": "0474",
+    "name": "乌兰察布市",
+    "pinYin": "wulanchabu"
+  },
+  {
+    "adCode": "150100",
+    "cityCode": "0471",
+    "name": "呼和浩特市",
+    "pinYin": "huhehaote"
+  },
+  {
+    "adCode": "659007",
+    "cityCode": "1909",
+    "name": "双河市",
+    "pinYin": "shuanghe"
+  },
+  {
+    "adCode": "659009",
+    "cityCode": "1903",
+    "name": "昆玉市",
+    "pinYin": "kunyu"
+  },
+  {
+    "adCode": "654200",
+    "cityCode": "0901",
+    "name": "塔城地区",
+    "pinYin": "tachengdiqu"
+  },
+  {
+    "adCode": "653200",
+    "cityCode": "0903",
+    "name": "和田地区",
+    "pinYin": "hetiandiqu"
+  },
+  {
+    "adCode": "652700",
+    "cityCode": "0909",
+    "name": "博尔塔拉蒙古自治州",
+    "pinYin": "boertalamengguzizhizhou"
+  },
+  {
+    "adCode": "659006",
+    "cityCode": "1996",
+    "name": "铁门关市",
+    "pinYin": "tiemenguan"
+  },
+  {
+    "adCode": "654300",
+    "cityCode": "0906",
+    "name": "阿勒泰地区",
+    "pinYin": "aletaidiqu"
+  },
+  {
+    "adCode": "659005",
+    "cityCode": "1906",
+    "name": "北屯市",
+    "pinYin": "beitun"
+  },
+  {
+    "adCode": "659008",
+    "cityCode": "1999",
+    "name": "可克达拉市",
+    "pinYin": "kekedala"
+  },
+  {
+    "adCode": "650200",
+    "cityCode": "0990",
+    "name": "克拉玛依市",
+    "pinYin": "kelamayi"
+  },
+  {
+    "adCode": "659004",
+    "cityCode": "1994",
+    "name": "五家渠市",
+    "pinYin": "wujiaqu"
+  },
+  {
+    "adCode": "650100",
+    "cityCode": "0991",
+    "name": "乌鲁木齐市",
+    "pinYin": "wulumuqi"
+  },
+  {
+    "adCode": "652800",
+    "cityCode": "0996",
+    "name": "巴音郭楞蒙古自治州",
+    "pinYin": "bayinguolengmengguzizhizhou"
+  },
+  {
+    "adCode": "654000",
+    "cityCode": "0999",
+    "name": "伊犁哈萨克自治州",
+    "pinYin": "yilihasakezizhizhou"
+  },
+  {
+    "adCode": "659001",
+    "cityCode": "0993",
+    "name": "石河子市",
+    "pinYin": "shihezi"
+  },
+  {
+    "adCode": "652300",
+    "cityCode": "0994",
+    "name": "昌吉回族自治州",
+    "pinYin": "changjihuizuzizhizhou"
+  },
+  {
+    "adCode": "659002",
+    "cityCode": "1997",
+    "name": "阿拉尔市",
+    "pinYin": "alaer"
+  },
+  {
+    "adCode": "652900",
+    "cityCode": "0997",
+    "name": "阿克苏地区",
+    "pinYin": "akesudiqu"
+  },
+  {
+    "adCode": "653100",
+    "cityCode": "0998",
+    "name": "喀什地区",
+    "pinYin": "kashendiqu"
+  },
+  {
+    "adCode": "659003",
+    "cityCode": "1998",
+    "name": "图木舒克市",
+    "pinYin": "tumushuke"
+  },
+  {
+    "adCode": "650500",
+    "cityCode": "0902",
+    "name": "哈密市",
+    "pinYin": "hami"
+  },
+  {
+    "adCode": "653000",
+    "cityCode": "0908",
+    "name": "克孜勒苏柯尔克孜自治州",
+    "pinYin": "kezilesukeerkezizizhizhou"
+  },
+  {
+    "adCode": "650400",
+    "cityCode": "0995",
+    "name": "吐鲁番市",
+    "pinYin": "tulufan"
+  },
+  {
+    "adCode": "350300",
+    "cityCode": "0594",
+    "name": "莆田市",
+    "pinYin": "putian"
+  },
+  {
+    "adCode": "350100",
+    "cityCode": "0591",
+    "name": "福州市",
+    "pinYin": "fuzhou"
+  },
+  {
+    "adCode": "350500",
+    "cityCode": "0595",
+    "name": "泉州市",
+    "pinYin": "quanzhou"
+  },
+  {
+    "adCode": "350900",
+    "cityCode": "0593",
+    "name": "宁德市",
+    "pinYin": "ningde"
+  },
+  {
+    "adCode": "350800",
+    "cityCode": "0597",
+    "name": "龙岩市",
+    "pinYin": "longyan"
+  },
+  {
+    "adCode": "350200",
+    "cityCode": "0592",
+    "name": "厦门市",
+    "pinYin": "shamen"
+  },
+  {
+    "adCode": "350600",
+    "cityCode": "0596",
+    "name": "漳州市",
+    "pinYin": "zhangzhou"
+  },
+  {
+    "adCode": "350700",
+    "cityCode": "0599",
+    "name": "南平市",
+    "pinYin": "nanping"
+  },
+  {
+    "adCode": "350400",
+    "cityCode": "0598",
+    "name": "三明市",
+    "pinYin": "sanming"
+  },
+  {
+    "adCode": "540600",
+    "cityCode": "0896",
+    "name": "那曲市",
+    "pinYin": "neiqu"
+  },
+  {
+    "adCode": "540300",
+    "cityCode": "0895",
+    "name": "昌都市",
+    "pinYin": "changdou"
+  },
+  {
+    "adCode": "540200",
+    "cityCode": "0892",
+    "name": "日喀则市",
+    "pinYin": "rikaze"
+  },
+  {
+    "adCode": "540100",
+    "cityCode": "0891",
+    "name": "拉萨市",
+    "pinYin": "lasa"
+  },
+  {
+    "adCode": "540500",
+    "cityCode": "0893",
+    "name": "山南市",
+    "pinYin": "shannan"
+  },
+  {
+    "adCode": "542500",
+    "cityCode": "0897",
+    "name": "阿里地区",
+    "pinYin": "alidiqu"
+  },
+  {
+    "adCode": "540400",
+    "cityCode": "0894",
+    "name": "林芝市",
+    "pinYin": "linzhi"
+  },
+  {
+    "adCode": "611000",
+    "cityCode": "0914",
+    "name": "商洛市",
+    "pinYin": "shangluo"
+  },
+  {
+    "adCode": "610100",
+    "cityCode": "029",
+    "name": "西安市",
+    "pinYin": "xian"
+  },
+  {
+    "adCode": "610200",
+    "cityCode": "0919",
+    "name": "铜川市",
+    "pinYin": "tongchuan"
+  },
+  {
+    "adCode": "610700",
+    "cityCode": "0916",
+    "name": "汉中市",
+    "pinYin": "hanzhong"
+  },
+  {
+    "adCode": "610900",
+    "cityCode": "0915",
+    "name": "安康市",
+    "pinYin": "ankang"
+  },
+  {
+    "adCode": "610800",
+    "cityCode": "0912",
+    "name": "榆林市",
+    "pinYin": "yulin"
+  },
+  {
+    "adCode": "610600",
+    "cityCode": "0911",
+    "name": "延安市",
+    "pinYin": "yanan"
+  },
+  {
+    "adCode": "610400",
+    "cityCode": "0910",
+    "name": "咸阳市",
+    "pinYin": "xianyang"
+  },
+  {
+    "adCode": "610300",
+    "cityCode": "0917",
+    "name": "宝鸡市",
+    "pinYin": "baoji"
+  },
+  {
+    "adCode": "610500",
+    "cityCode": "0913",
+    "name": "渭南市",
+    "pinYin": "weinan"
+  },
+  {
+    "adCode": "520600",
+    "cityCode": "0856",
+    "name": "铜仁市",
+    "pinYin": "tongren"
+  },
+  {
+    "adCode": "520300",
+    "cityCode": "0852",
+    "name": "遵义市",
+    "pinYin": "zunyi"
+  },
+  {
+    "adCode": "520200",
+    "cityCode": "0858",
+    "name": "六盘水市",
+    "pinYin": "liupanshui"
+  },
+  {
+    "adCode": "522600",
+    "cityCode": "0855",
+    "name": "黔东南苗族侗族自治州",
+    "pinYin": "qiandongnanmiaozudongzuzizhizhou"
+  },
+  {
+    "adCode": "522300",
+    "cityCode": "0859",
+    "name": "黔西南布依族苗族自治州",
+    "pinYin": "qianxinanbuyizumiaozuzizhizhou"
+  },
+  {
+    "adCode": "520400",
+    "cityCode": "0853",
+    "name": "安顺市",
+    "pinYin": "anshun"
+  },
+  {
+    "adCode": "522700",
+    "cityCode": "0854",
+    "name": "黔南布依族苗族自治州",
+    "pinYin": "qiannanbuyizumiaozuzizhizhou"
+  },
+  {
+    "adCode": "520500",
+    "cityCode": "0857",
+    "name": "毕节市",
+    "pinYin": "bijie"
+  },
+  {
+    "adCode": "520100",
+    "cityCode": "0851",
+    "name": "贵阳市",
+    "pinYin": "guiyang"
+  },
+  {
+    "adCode": "469024",
+    "cityCode": "1896",
+    "name": "临高县",
+    "pinYin": "lingaoxian"
+  },
+  {
+    "adCode": "469025",
+    "cityCode": "0802",
+    "name": "白沙黎族自治县",
+    "pinYin": "baishalizuzizhixian"
+  },
+  {
+    "adCode": "469021",
+    "cityCode": "0806",
+    "name": "定安县",
+    "pinYin": "dinganxian"
+  },
+  {
+    "adCode": "469026",
+    "cityCode": "0803",
+    "name": "昌江黎族自治县",
+    "pinYin": "changjianglizuzizhixian"
+  },
+  {
+    "adCode": "469001",
+    "cityCode": "1897",
+    "name": "五指山市",
+    "pinYin": "wuzhishan"
+  },
+  {
+    "adCode": "469030",
+    "cityCode": "1899",
+    "name": "琼中黎族苗族自治县",
+    "pinYin": "qiongzhonglizumiaozuzizhixian"
+  },
+  {
+    "adCode": "469006",
+    "cityCode": "1898",
+    "name": "万宁市",
+    "pinYin": "wanning"
+  },
+  {
+    "adCode": "469022",
+    "cityCode": "1892",
+    "name": "屯昌县",
+    "pinYin": "tunchangxian"
+  },
+  {
+    "adCode": "469027",
+    "cityCode": "2802",
+    "name": "乐东黎族自治县",
+    "pinYin": "ledonglizuzizhixian"
+  },
+  {
+    "adCode": "469002",
+    "cityCode": "1894",
+    "name": "琼海市",
+    "pinYin": "qionghai"
+  },
+  {
+    "adCode": "469007",
+    "cityCode": "0807",
+    "name": "东方市",
+    "pinYin": "dongfang"
+  },
+  {
+    "adCode": "460400",
+    "cityCode": "0805",
+    "name": "儋州市",
+    "pinYin": "danzhou"
+  },
+  {
+    "adCode": "469029",
+    "cityCode": "0801",
+    "name": "保亭黎族苗族自治县",
+    "pinYin": "baotinglizumiaozuzizhixian"
+  },
+  {
+    "adCode": "469023",
+    "cityCode": "0804",
+    "name": "澄迈县",
+    "pinYin": "chengmaixian"
+  },
+  {
+    "adCode": "460200",
+    "cityCode": "0899",
+    "name": "三亚市",
+    "pinYin": "sanya"
+  },
+  {
+    "adCode": "469005",
+    "cityCode": "1893",
+    "name": "文昌市",
+    "pinYin": "wenchang"
+  },
+  {
+    "adCode": "469028",
+    "cityCode": "0809",
+    "name": "陵水黎族自治县",
+    "pinYin": "lingshuilizuzizhixian"
+  },
+  {
+    "adCode": "460300",
+    "cityCode": "2898",
+    "name": "三沙市",
+    "pinYin": "sansha"
+  },
+  {
+    "adCode": "460100",
+    "cityCode": "0898",
+    "name": "海口市",
+    "pinYin": "haikou"
+  },
+  {
+    "adCode": "430900",
+    "cityCode": "0737",
+    "name": "益阳市",
+    "pinYin": "yiyang"
+  },
+  {
+    "adCode": "430400",
+    "cityCode": "0734",
+    "name": "衡阳市",
+    "pinYin": "hengyang"
+  },
+  {
+    "adCode": "430800",
+    "cityCode": "0744",
+    "name": "张家界市",
+    "pinYin": "zhangjiajie"
+  },
+  {
+    "adCode": "430600",
+    "cityCode": "0730",
+    "name": "岳阳市",
+    "pinYin": "yueyang"
+  },
+  {
+    "adCode": "431300",
+    "cityCode": "0738",
+    "name": "娄底市",
+    "pinYin": "loudi"
+  },
+  {
+    "adCode": "430100",
+    "cityCode": "0731",
+    "name": "长沙市",
+    "pinYin": "zhangsha"
+  },
+  {
+    "adCode": "431200",
+    "cityCode": "0745",
+    "name": "怀化市",
+    "pinYin": "huaihua"
+  },
+  {
+    "adCode": "430500",
+    "cityCode": "0739",
+    "name": "邵阳市",
+    "pinYin": "shaoyang"
+  },
+  {
+    "adCode": "430200",
+    "cityCode": "0733",
+    "name": "株洲市",
+    "pinYin": "zhuzhou"
+  },
+  {
+    "adCode": "433100",
+    "cityCode": "0743",
+    "name": "湘西土家族苗族自治州",
+    "pinYin": "xiangxitujiazumiaozuzizhizhou"
+  },
+  {
+    "adCode": "430700",
+    "cityCode": "0736",
+    "name": "常德市",
+    "pinYin": "changde"
+  },
+  {
+    "adCode": "430300",
+    "cityCode": "0732",
+    "name": "湘潭市",
+    "pinYin": "xiangtan"
+  },
+  {
+    "adCode": "431000",
+    "cityCode": "0735",
+    "name": "郴州市",
+    "pinYin": "chenzhou"
+  },
+  {
+    "adCode": "431100",
+    "cityCode": "0746",
+    "name": "永州市",
+    "pinYin": "yongzhou"
+  },
+  {
+    "adCode": "320700",
+    "cityCode": "0518",
+    "name": "连云港市",
+    "pinYin": "lianyungang"
+  },
+  {
+    "adCode": "321100",
+    "cityCode": "0511",
+    "name": "镇江市",
+    "pinYin": "zhenjiang"
+  },
+  {
+    "adCode": "320100",
+    "cityCode": "025",
+    "name": "南京市",
+    "pinYin": "nanjing"
+  },
+  {
+    "adCode": "321300",
+    "cityCode": "0527",
+    "name": "宿迁市",
+    "pinYin": "suqian"
+  },
+  {
+    "adCode": "320600",
+    "cityCode": "0513",
+    "name": "南通市",
+    "pinYin": "nantong"
+  },
+  {
+    "adCode": "320800",
+    "cityCode": "0517",
+    "name": "淮安市",
+    "pinYin": "huaian"
+  },
+  {
+    "adCode": "320900",
+    "cityCode": "0515",
+    "name": "盐城市",
+    "pinYin": "yancheng"
+  },
+  {
+    "adCode": "320300",
+    "cityCode": "0516",
+    "name": "徐州市",
+    "pinYin": "xuzhou"
+  },
+  {
+    "adCode": "321000",
+    "cityCode": "0514",
+    "name": "扬州市",
+    "pinYin": "yangzhou"
+  },
+  {
+    "adCode": "321200",
+    "cityCode": "0523",
+    "name": "泰州市",
+    "pinYin": "taizhou"
+  },
+  {
+    "adCode": "320400",
+    "cityCode": "0519",
+    "name": "常州市",
+    "pinYin": "changzhou"
+  },
+  {
+    "adCode": "320200",
+    "cityCode": "0510",
+    "name": "无锡市",
+    "pinYin": "wuxi"
+  },
+  {
+    "adCode": "320500",
+    "cityCode": "0512",
+    "name": "苏州市",
+    "pinYin": "suzhou"
+  },
+  {
+    "adCode": "341600",
+    "cityCode": "0558",
+    "name": "亳州市",
+    "pinYin": "bozhou"
+  },
+  {
+    "adCode": "340500",
+    "cityCode": "0555",
+    "name": "马鞍山市",
+    "pinYin": "maanshan"
+  },
+  {
+    "adCode": "340600",
+    "cityCode": "0561",
+    "name": "淮北市",
+    "pinYin": "huaibei"
+  },
+  {
+    "adCode": "340300",
+    "cityCode": "0552",
+    "name": "蚌埠市",
+    "pinYin": "bangbu"
+  },
+  {
+    "adCode": "341700",
+    "cityCode": "0566",
+    "name": "池州市",
+    "pinYin": "chizhou"
+  },
+  {
+    "adCode": "341200",
+    "cityCode": "1558",
+    "name": "阜阳市",
+    "pinYin": "fuyang"
+  },
+  {
+    "adCode": "340700",
+    "cityCode": "0562",
+    "name": "铜陵市",
+    "pinYin": "tongling"
+  },
+  {
+    "adCode": "341100",
+    "cityCode": "0550",
+    "name": "滁州市",
+    "pinYin": "chuzhou"
+  },
+  {
+    "adCode": "341800",
+    "cityCode": "0563",
+    "name": "宣城市",
+    "pinYin": "xuancheng"
+  },
+  {
+    "adCode": "341000",
+    "cityCode": "0559",
+    "name": "黄山市",
+    "pinYin": "huangshan"
+  },
+  {
+    "adCode": "340800",
+    "cityCode": "0556",
+    "name": "安庆市",
+    "pinYin": "anqing"
+  },
+  {
+    "adCode": "341500",
+    "cityCode": "0564",
+    "name": "六安市",
+    "pinYin": "liuan"
+  },
+  {
+    "adCode": "340400",
+    "cityCode": "0554",
+    "name": "淮南市",
+    "pinYin": "huainan"
+  },
+  {
+    "adCode": "340100",
+    "cityCode": "0551",
+    "name": "合肥市",
+    "pinYin": "hefei"
+  },
+  {
+    "adCode": "341300",
+    "cityCode": "0557",
+    "name": "宿州市",
+    "pinYin": "suzhou"
+  },
+  {
+    "adCode": "340200",
+    "cityCode": "0553",
+    "name": "芜湖市",
+    "pinYin": "wuhu"
+  },
+  {
+    "adCode": "632600",
+    "cityCode": "0975",
+    "name": "果洛藏族自治州",
+    "pinYin": "guoluozangzuzizhizhou"
+  },
+  {
+    "adCode": "632800",
+    "cityCode": "0977",
+    "name": "海西蒙古族藏族自治州",
+    "pinYin": "haiximengguzuzangzuzizhizhou"
+  },
+  {
+    "adCode": "632300",
+    "cityCode": "0973",
+    "name": "黄南藏族自治州",
+    "pinYin": "huangnanzangzuzizhizhou"
+  },
+  {
+    "adCode": "632500",
+    "cityCode": "0974",
+    "name": "海南藏族自治州",
+    "pinYin": "hainanzangzuzizhizhou"
+  },
+  {
+    "adCode": "630200",
+    "cityCode": "0972",
+    "name": "海东市",
+    "pinYin": "haidong"
+  },
+  {
+    "adCode": "632700",
+    "cityCode": "0976",
+    "name": "玉树藏族自治州",
+    "pinYin": "yushuzangzuzizhizhou"
+  },
+  {
+    "adCode": "630100",
+    "cityCode": "0971",
+    "name": "西宁市",
+    "pinYin": "xining"
+  },
+  {
+    "adCode": "632200",
+    "cityCode": "0970",
+    "name": "海北藏族自治州",
+    "pinYin": "haibeizangzuzizhizhou"
+  },
+  {
+    "adCode": "360400",
+    "cityCode": "0792",
+    "name": "九江市",
+    "pinYin": "jiujiang"
+  },
+  {
+    "adCode": "360500",
+    "cityCode": "0790",
+    "name": "新余市",
+    "pinYin": "xinyu"
+  },
+  {
+    "adCode": "361000",
+    "cityCode": "0794",
+    "name": "抚州市",
+    "pinYin": "fuzhou"
+  },
+  {
+    "adCode": "360600",
+    "cityCode": "0701",
+    "name": "鹰潭市",
+    "pinYin": "yingtan"
+  },
+  {
+    "adCode": "360700",
+    "cityCode": "0797",
+    "name": "赣州市",
+    "pinYin": "ganzhou"
+  },
+  {
+    "adCode": "360100",
+    "cityCode": "0791",
+    "name": "南昌市",
+    "pinYin": "nanchang"
+  },
+  {
+    "adCode": "360800",
+    "cityCode": "0796",
+    "name": "吉安市",
+    "pinYin": "jian"
+  },
+  {
+    "adCode": "360300",
+    "cityCode": "0799",
+    "name": "萍乡市",
+    "pinYin": "pingxiang"
+  },
+  {
+    "adCode": "360900",
+    "cityCode": "0795",
+    "name": "宜春市",
+    "pinYin": "yichun"
+  },
+  {
+    "adCode": "360200",
+    "cityCode": "0798",
+    "name": "景德镇市",
+    "pinYin": "jingdezhen"
+  },
+  {
+    "adCode": "361100",
+    "cityCode": "0793",
+    "name": "上饶市",
+    "pinYin": "shangrao"
+  },
+  {
+    "adCode": "330300",
+    "cityCode": "0577",
+    "name": "温州市",
+    "pinYin": "wenzhou"
+  },
+  {
+    "adCode": "330200",
+    "cityCode": "0574",
+    "name": "宁波市",
+    "pinYin": "ningbo"
+  },
+  {
+    "adCode": "330900",
+    "cityCode": "0580",
+    "name": "舟山市",
+    "pinYin": "zhoushan"
+  },
+  {
+    "adCode": "330400",
+    "cityCode": "0573",
+    "name": "嘉兴市",
+    "pinYin": "jiaxing"
+  },
+  {
+    "adCode": "331000",
+    "cityCode": "0576",
+    "name": "台州市",
+    "pinYin": "taizhou"
+  },
+  {
+    "adCode": "331100",
+    "cityCode": "0578",
+    "name": "丽水市",
+    "pinYin": "lishui"
+  },
+  {
+    "adCode": "330100",
+    "cityCode": "0571",
+    "name": "杭州市",
+    "pinYin": "hangzhou"
+  },
+  {
+    "adCode": "330600",
+    "cityCode": "0575",
+    "name": "绍兴市",
+    "pinYin": "shaoxing"
+  },
+  {
+    "adCode": "330500",
+    "cityCode": "0572",
+    "name": "湖州市",
+    "pinYin": "huzhou"
+  },
+  {
+    "adCode": "330800",
+    "cityCode": "0570",
+    "name": "衢州市",
+    "pinYin": "quzhou"
+  },
+  {
+    "adCode": "330700",
+    "cityCode": "0579",
+    "name": "金华市",
+    "pinYin": "jinhua"
+  },
+  {
+    "adCode": "451000",
+    "cityCode": "0776",
+    "name": "百色市",
+    "pinYin": "baise"
+  },
+  {
+    "adCode": "450700",
+    "cityCode": "0777",
+    "name": "钦州市",
+    "pinYin": "qinzhou"
+  },
+  {
+    "adCode": "450500",
+    "cityCode": "0779",
+    "name": "北海市",
+    "pinYin": "beihai"
+  },
+  {
+    "adCode": "450300",
+    "cityCode": "0773",
+    "name": "桂林市",
+    "pinYin": "guilin"
+  },
+  {
+    "adCode": "450200",
+    "cityCode": "0772",
+    "name": "柳州市",
+    "pinYin": "liuzhou"
+  },
+  {
+    "adCode": "451200",
+    "cityCode": "0778",
+    "name": "河池市",
+    "pinYin": "hechi"
+  },
+  {
+    "adCode": "450100",
+    "cityCode": "0771",
+    "name": "南宁市",
+    "pinYin": "nanning"
+  },
+  {
+    "adCode": "451300",
+    "cityCode": "1772",
+    "name": "来宾市",
+    "pinYin": "laibin"
+  },
+  {
+    "adCode": "451400",
+    "cityCode": "1771",
+    "name": "崇左市",
+    "pinYin": "chongzuo"
+  },
+  {
+    "adCode": "451100",
+    "cityCode": "1774",
+    "name": "贺州市",
+    "pinYin": "hezhou"
+  },
+  {
+    "adCode": "450600",
+    "cityCode": "0770",
+    "name": "防城港市",
+    "pinYin": "fangchenggang"
+  },
+  {
+    "adCode": "450400",
+    "cityCode": "0774",
+    "name": "梧州市",
+    "pinYin": "wuzhou"
+  },
+  {
+    "adCode": "450900",
+    "cityCode": "0775",
+    "name": "玉林市",
+    "pinYin": "yulin"
+  },
+  {
+    "adCode": "450800",
+    "cityCode": "1755",
+    "name": "贵港市",
+    "pinYin": "guigang"
+  },
+  {
+    "adCode": "130800",
+    "cityCode": "0314",
+    "name": "承德市",
+    "pinYin": "chengde"
+  },
+  {
+    "adCode": "130200",
+    "cityCode": "0315",
+    "name": "唐山市",
+    "pinYin": "tangshan"
+  },
+  {
+    "adCode": "131000",
+    "cityCode": "0316",
+    "name": "廊坊市",
+    "pinYin": "langfang"
+  },
+  {
+    "adCode": "130300",
+    "cityCode": "0335",
+    "name": "秦皇岛市",
+    "pinYin": "qinhuangdao"
+  },
+  {
+    "adCode": "130600",
+    "cityCode": "0312",
+    "name": "保定市",
+    "pinYin": "baoding"
+  },
+  {
+    "adCode": "130100",
+    "cityCode": "0311",
+    "name": "石家庄市",
+    "pinYin": "shijiazhuang"
+  },
+  {
+    "adCode": "130700",
+    "cityCode": "0313",
+    "name": "张家口市",
+    "pinYin": "zhangjiakou"
+  },
+  {
+    "adCode": "130400",
+    "cityCode": "0310",
+    "name": "邯郸市",
+    "pinYin": "handan"
+  },
+  {
+    "adCode": "130500",
+    "cityCode": "0319",
+    "name": "邢台市",
+    "pinYin": "xingtai"
+  },
+  {
+    "adCode": "131100",
+    "cityCode": "0318",
+    "name": "衡水市",
+    "pinYin": "hengshui"
+  },
+  {
+    "adCode": "130900",
+    "cityCode": "0317",
+    "name": "沧州市",
+    "pinYin": "cangzhou"
+  },
+  {
+    "adCode": "640200",
+    "cityCode": "0952",
+    "name": "石嘴山市",
+    "pinYin": "shizuishan"
+  },
+  {
+    "adCode": "640400",
+    "cityCode": "0954",
+    "name": "固原市",
+    "pinYin": "guyuan"
+  },
+  {
+    "adCode": "640300",
+    "cityCode": "0953",
+    "name": "吴忠市",
+    "pinYin": "wuzhong"
+  },
+  {
+    "adCode": "640500",
+    "cityCode": "1953",
+    "name": "中卫市",
+    "pinYin": "zhongwei"
+  },
+  {
+    "adCode": "640100",
+    "cityCode": "0951",
+    "name": "银川市",
+    "pinYin": "yinchuan"
+  },
+  {
+    "adCode": "620200",
+    "cityCode": "1937",
+    "name": "嘉峪关市",
+    "pinYin": "jiayuguan"
+  },
+  {
+    "adCode": "620900",
+    "cityCode": "0937",
+    "name": "酒泉市",
+    "pinYin": "jiuquan"
+  },
+  {
+    "adCode": "620300",
+    "cityCode": "0935",
+    "name": "金昌市",
+    "pinYin": "jinchang"
+  },
+  {
+    "adCode": "620100",
+    "cityCode": "0931",
+    "name": "兰州市",
+    "pinYin": "lanzhou"
+  },
+  {
+    "adCode": "620800",
+    "cityCode": "0933",
+    "name": "平凉市",
+    "pinYin": "pingliang"
+  },
+  {
+    "adCode": "620400",
+    "cityCode": "0943",
+    "name": "白银市",
+    "pinYin": "baiyin"
+  },
+  {
+    "adCode": "620500",
+    "cityCode": "0938",
+    "name": "天水市",
+    "pinYin": "tianshui"
+  },
+  {
+    "adCode": "620600",
+    "cityCode": "1935",
+    "name": "武威市",
+    "pinYin": "wuwei"
+  },
+  {
+    "adCode": "621200",
+    "cityCode": "2935",
+    "name": "陇南市",
+    "pinYin": "longnan"
+  },
+  {
+    "adCode": "623000",
+    "cityCode": "0941",
+    "name": "甘南藏族自治州",
+    "pinYin": "gannanzangzuzizhizhou"
+  },
+  {
+    "adCode": "622900",
+    "cityCode": "0930",
+    "name": "临夏回族自治州",
+    "pinYin": "linxiahuizuzizhizhou"
+  },
+  {
+    "adCode": "620700",
+    "cityCode": "0936",
+    "name": "张掖市",
+    "pinYin": "zhangye"
+  },
+  {
+    "adCode": "621000",
+    "cityCode": "0934",
+    "name": "庆阳市",
+    "pinYin": "qingyang"
+  },
+  {
+    "adCode": "621100",
+    "cityCode": "0932",
+    "name": "定西市",
+    "pinYin": "dingxi"
+  },
+  {
+    "adCode": "220100",
+    "cityCode": "0431",
+    "name": "长春市",
+    "pinYin": "zhangchun"
+  },
+  {
+    "adCode": "220700",
+    "cityCode": "0438",
+    "name": "松原市",
+    "pinYin": "songyuan"
+  },
+  {
+    "adCode": "220800",
+    "cityCode": "0436",
+    "name": "白城市",
+    "pinYin": "baicheng"
+  },
+  {
+    "adCode": "220200",
+    "cityCode": "0432",
+    "name": "吉林市",
+    "pinYin": "jilin"
+  },
+  {
+    "adCode": "220400",
+    "cityCode": "0437",
+    "name": "辽源市",
+    "pinYin": "liaoyuan"
+  },
+  {
+    "adCode": "220300",
+    "cityCode": "0434",
+    "name": "四平市",
+    "pinYin": "siping"
+  },
+  {
+    "adCode": "222400",
+    "cityCode": "1433",
+    "name": "延边朝鲜族自治州",
+    "pinYin": "yanbianchaoxianzuzizhizhou"
+  },
+  {
+    "adCode": "220600",
+    "cityCode": "0439",
+    "name": "白山市",
+    "pinYin": "baishan"
+  },
+  {
+    "adCode": "220500",
+    "cityCode": "0435",
+    "name": "通化市",
+    "pinYin": "tonghua"
+  },
+  {
+    "adCode": "530600",
+    "cityCode": "0870",
+    "name": "昭通市",
+    "pinYin": "zhaotong"
+  },
+  {
+    "adCode": "532800",
+    "cityCode": "0691",
+    "name": "西双版纳傣族自治州",
+    "pinYin": "xishuangbannadaizuzizhizhou"
+  },
+  {
+    "adCode": "532500",
+    "cityCode": "0873",
+    "name": "红河哈尼族彝族自治州",
+    "pinYin": "honghehanizuyizuzizhizhou"
+  },
+  {
+    "adCode": "530300",
+    "cityCode": "0874",
+    "name": "曲靖市",
+    "pinYin": "qujing"
+  },
+  {
+    "adCode": "533300",
+    "cityCode": "0886",
+    "name": "怒江傈僳族自治州",
+    "pinYin": "nujianglisuzuzizhizhou"
+  },
+  {
+    "adCode": "530400",
+    "cityCode": "0877",
+    "name": "玉溪市",
+    "pinYin": "yuxi"
+  },
+  {
+    "adCode": "532900",
+    "cityCode": "0872",
+    "name": "大理白族自治州",
+    "pinYin": "dalibaizuzizhizhou"
+  },
+  {
+    "adCode": "530500",
+    "cityCode": "0875",
+    "name": "保山市",
+    "pinYin": "baoshan"
+  },
+  {
+    "adCode": "530800",
+    "cityCode": "0879",
+    "name": "普洱市",
+    "pinYin": "puer"
+  },
+  {
+    "adCode": "530700",
+    "cityCode": "0888",
+    "name": "丽江市",
+    "pinYin": "lijiang"
+  },
+  {
+    "adCode": "530100",
+    "cityCode": "0871",
+    "name": "昆明市",
+    "pinYin": "kunming"
+  },
+  {
+    "adCode": "533400",
+    "cityCode": "0887",
+    "name": "迪庆藏族自治州",
+    "pinYin": "diqingzangzuzizhizhou"
+  },
+  {
+    "adCode": "532300",
+    "cityCode": "0878",
+    "name": "楚雄彝族自治州",
+    "pinYin": "chuxiongyizuzizhizhou"
+  },
+  {
+    "adCode": "532600",
+    "cityCode": "0876",
+    "name": "文山壮族苗族自治州",
+    "pinYin": "wenshanzhuangzumiaozuzizhizhou"
+  },
+  {
+    "adCode": "530900",
+    "cityCode": "0883",
+    "name": "临沧市",
+    "pinYin": "lincang"
+  },
+  {
+    "adCode": "533100",
+    "cityCode": "0692",
+    "name": "德宏傣族景颇族自治州",
+    "pinYin": "dehongdaizujingpozuzizhizhou"
+  },
+  {
+    "adCode": "510800",
+    "cityCode": "0839",
+    "name": "广元市",
+    "pinYin": "guangyuan"
+  },
+  {
+    "adCode": "511300",
+    "cityCode": "0817",
+    "name": "南充市",
+    "pinYin": "nanchong"
+  },
+  {
+    "adCode": "511900",
+    "cityCode": "0827",
+    "name": "巴中市",
+    "pinYin": "bazhong"
+  },
+  {
+    "adCode": "510600",
+    "cityCode": "0838",
+    "name": "德阳市",
+    "pinYin": "deyang"
+  },
+  {
+    "adCode": "510700",
+    "cityCode": "0816",
+    "name": "绵阳市",
+    "pinYin": "mianyang"
+  },
+  {
+    "adCode": "510100",
+    "cityCode": "028",
+    "name": "成都市",
+    "pinYin": "chengdou"
+  },
+  {
+    "adCode": "511600",
+    "cityCode": "0826",
+    "name": "广安市",
+    "pinYin": "guangan"
+  },
+  {
+    "adCode": "511700",
+    "cityCode": "0818",
+    "name": "达州市",
+    "pinYin": "dazhou"
+  },
+  {
+    "adCode": "510900",
+    "cityCode": "0825",
+    "name": "遂宁市",
+    "pinYin": "suining"
+  },
+  {
+    "adCode": "512000",
+    "cityCode": "0832",
+    "name": "资阳市",
+    "pinYin": "ziyang"
+  },
+  {
+    "adCode": "511400",
+    "cityCode": "1833",
+    "name": "眉山市",
+    "pinYin": "meishan"
+  },
+  {
+    "adCode": "511000",
+    "cityCode": "1832",
+    "name": "内江市",
+    "pinYin": "neijiang"
+  },
+  {
+    "adCode": "511100",
+    "cityCode": "0833",
+    "name": "乐山市",
+    "pinYin": "leshan"
+  },
+  {
+    "adCode": "510300",
+    "cityCode": "0813",
+    "name": "自贡市",
+    "pinYin": "zigong"
+  },
+  {
+    "adCode": "510500",
+    "cityCode": "0830",
+    "name": "泸州市",
+    "pinYin": "luzhou"
+  },
+  {
+    "adCode": "511500",
+    "cityCode": "0831",
+    "name": "宜宾市",
+    "pinYin": "yibin"
+  },
+  {
+    "adCode": "513400",
+    "cityCode": "0834",
+    "name": "凉山彝族自治州",
+    "pinYin": "liangshanyizuzizhizhou"
+  },
+  {
+    "adCode": "510400",
+    "cityCode": "0812",
+    "name": "攀枝花市",
+    "pinYin": "panzhihua"
+  },
+  {
+    "adCode": "513200",
+    "cityCode": "0837",
+    "name": "阿坝藏族羌族自治州",
+    "pinYin": "abazangzuqiangzuzizhizhou"
+  },
+  {
+    "adCode": "511800",
+    "cityCode": "0835",
+    "name": "雅安市",
+    "pinYin": "yaan"
+  },
+  {
+    "adCode": "513300",
+    "cityCode": "0836",
+    "name": "甘孜藏族自治州",
+    "pinYin": "ganzizangzuzizhizhou"
+  },
+  {
+    "adCode": "140300",
+    "cityCode": "0353",
+    "name": "阳泉市",
+    "pinYin": "yangquan"
+  },
+  {
+    "adCode": "140100",
+    "cityCode": "0351",
+    "name": "太原市",
+    "pinYin": "taiyuan"
+  },
+  {
+    "adCode": "141000",
+    "cityCode": "0357",
+    "name": "临汾市",
+    "pinYin": "linfen"
+  },
+  {
+    "adCode": "140800",
+    "cityCode": "0359",
+    "name": "运城市",
+    "pinYin": "yuncheng"
+  },
+  {
+    "adCode": "140400",
+    "cityCode": "0355",
+    "name": "长治市",
+    "pinYin": "zhangzhi"
+  },
+  {
+    "adCode": "140600",
+    "cityCode": "0349",
+    "name": "朔州市",
+    "pinYin": "shuozhou"
+  },
+  {
+    "adCode": "140900",
+    "cityCode": "0350",
+    "name": "忻州市",
+    "pinYin": "xinzhou"
+  },
+  {
+    "adCode": "140500",
+    "cityCode": "0356",
+    "name": "晋城市",
+    "pinYin": "jincheng"
+  },
+  {
+    "adCode": "140700",
+    "cityCode": "0354",
+    "name": "晋中市",
+    "pinYin": "jinzhong"
+  },
+  {
+    "adCode": "141100",
+    "cityCode": "0358",
+    "name": "吕梁市",
+    "pinYin": "lvliang"
+  },
+  {
+    "adCode": "140200",
+    "cityCode": "0352",
+    "name": "大同市",
+    "pinYin": "datong"
+  },
+  {
+      "adCode": "710000",
+      "cityCode": "1886",
+      "name": "台湾省",
+      "pinYin": "taiwan"
+  },
+  {
+      "adCode": "810000",
+      "cityCode": "1852",
+      "name": "香港特别行政区",
+      "pinYin": "xianggang"
+  },
+  {
+      "adCode": "820000",
+      "cityCode": "1853",
+      "name": "澳门特别行政区",
+      "pinYin": "aomen"
+  },
+  {
+      "adCode": "320583",
+      "cityCode": "0512",
+      "name": "昆山市",
+      "pinyin": "kunshanshi"
+  }
+  
+]

@@ -1,15 +1,14 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <GetCityCode msg="time to get CITYCODE!"/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import GetCityCode from './components/GetCityCode.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    GetCityCode
   }
 }
 </script>
